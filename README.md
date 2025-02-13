@@ -42,3 +42,10 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+## Contact: 
+- [Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
+- [Linkedin](https://www.linkedin.com/in/saurabhchunekar)
+- [Email](mailto:designwithsaurabh@gmail.com)
+
+Thank you
